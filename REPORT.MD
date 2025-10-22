@@ -36,6 +36,7 @@ The core goal was to explore what factors most influence attrition, which employ
 - **Top 5 attrition drivers:** Overtime, Monthly Income, Job Satisfaction, Years at Company, and Work–Life Balance.
 - Recommended HR interventions such as flexible scheduling, promotion-based incentives, and department-specific engagement programs.
 - Estimated potential reduction in attrition by **20–25%** through targeted policy changes based on analysis findings.
+
 **[View My Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2FiNjY5ZmMtZWIyMi00NGQ5LWJjNTgtZmRiMjUzN2RjMDZhIiwidCI6ImZjY2Y0MmRmLTE2ZDktNGU4Ny1hNmUwLWU0OTYyMjAxN2Y3NCJ9)**
 
 # Key Findings (Quantifiable Results):
